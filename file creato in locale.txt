@@ -1,0 +1,8 @@
+In git fino ad ora ho imoparato diverse cose: 
+ho imparato a verificare la versione di git presente in locale con il comando git -- version;
+ho imparato come aprire git con il comando git init;
+ho imparato a clonare una repository in locale, con il comando git clone; 
+so aggiungere file nel repository con il comando git add .; 
+ho imparato a salvare le modifiche con il comando gi commit; 
+ho imparato a caricare le modifiche fatte in git su github con il comando git push;
+ho imparato a caricare le modifiche fatte in gitHub su git con il comando git pull;
